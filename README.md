@@ -3,7 +3,7 @@
 </center>
 
 *Olá, me chamo Julio Cesar tenho 20 anos, sou apaixonado pela tecnologia desde que me conheço por gente, sempre gostei muito de computadores, sempre gostei de mexer no computador, entender como as coisas funcionam, sempre pesquisando e aprendendo,
-atualmente focado em me tornar um desenvolvedor.*
+atualmente estou focado em me tornar um desenvolvedor.*
 
 ### 🎓 Cursando Sistema de Informação 4° Semestre
 
