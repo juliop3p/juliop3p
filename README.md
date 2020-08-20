@@ -4,9 +4,11 @@
 
 *Olá, me chamo Julio Cesar tenho 20 anos, sou apaixonado pela tecnologia desde que me conheço por gente, sempre gostei muito de computadores, sempre gostei de mexer no computador, entender como as coisas funcionam, sempre pesquisando e aprendendo e desde que conheci esse universo da programação venho me dedicando para me tornar um desenvolvedor.*
 
-### 🎓 Cursando Sistema de Informação 4° Semestre
+### 🎓 Cursando Sistema de Informação 4° Semestre.
 
-### 🎯 Focado em me tornar um Desenvolvedor Full Stack
+### 📚 Participando do Bootcamp da Brazil Generation.
+
+### 🎯 Empenhado em me tornar um Desenvolvedor Full Stack.
 
 <br />
 
