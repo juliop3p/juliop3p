@@ -19,7 +19,7 @@ _Olá, me chamo Julio Cesar tenho 20 anos, sou apaixonado pela tecnologia desde 
 <br />
 <br />
 
-[![Linkedin Badge](https://i.imgur.com/8lktFdw.png)](https://www.linkedin.com/in/juliop3p/)
+[![Linkedin Badge](https://i.imgur.com/8lktFdw.png)](https://portfoliojulio.netlify.app/)
 
 [![Twitter Badge](https://i.imgur.com/gSobqyk.png)](https://github.com/juliop3p)
 
