@@ -2,7 +2,7 @@
 <h1> Olá sou Julio Cesar 😀 </h1>
 </center>
 
-<p align="center"> Desenvolvedor Full Stack focado em criar soluções incríveis que agregam valor a vida das pessoas </p>
+<h4 align="center"> Desenvolvedor Full Stack focado em criar soluções incríveis que agregam valor a vida das pessoas </h4>
 
 <img src="https://i.imgur.com/ZvR2QmI.png" width="400" align="right">
 
