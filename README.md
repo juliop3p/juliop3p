@@ -1,6 +1,4 @@
-<center>
-<h1> Olá, sou Julio Cesar 😀 </h1>
-</center>
+<h1 align="center"> Olá, sou Julio Cesar 😀 </h1>
 
 <h2 align="center">Um Desenvolvedor Full Stack focado em criar soluções incríveis que agregam valor a vida das pessoas </h2>
 
