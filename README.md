@@ -1,6 +1,8 @@
 <h1 align="center"> Olá, sou Julio Cesar 😀</h1>
 
-<h3 color="#333" align="center">Um Desenvolvedor Full Stack focado em criar soluções incríveis que agregam valor a vida das pessoas </h3>
+<h3 align="center">Um Desenvolvedor Full Stack focado em criar soluções incríveis que agregam valor a vida das pessoas </h3>
+
+<br>
 
 <img src="https://i.imgur.com/ZvR2QmI.png" width="400" align="right">
 
@@ -9,6 +11,8 @@
 - 🎓 **Cursando Sistema de Informação 4° Semestre.**
 
 - 📚 **Participando do Bootcamp da Brazil Generation.**
+
+- 🧰 **Familiar com Node.js, ReactJS, MongoDB, Express.js**
 
 - 🎯 **Atualmente estudando Spring e Angular**
 
