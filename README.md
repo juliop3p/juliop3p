@@ -2,25 +2,31 @@
 <h1> Olá sou Julio Cesar 😀 </h1>
 </center>
 
-_Olá, me chamo Julio Cesar tenho 20 anos, sou apaixonado pela tecnologia desde que me conheço por gente, sempre gostei muito de computadores, sempre gostei de mexer no computador, entender como as coisas funcionam, sempre pesquisando e aprendendo e desde que conheci esse universo da programação venho me dedicando para me tornar um desenvolvedor._
+<img src="https://i.imgur.com/ZvR2QmI.png" width="300" align="right">
 
-### 🎓 Cursando Sistema de Informação 4° Semestre.
+- 👨‍💻 **Desenvolvedor Full Stack**
 
-### 📚 Participando do Bootcamp da Brazil Generation.
+- 🎓 **Cursando Sistema de Informação 4° Semestre.**
 
-### 🎯 Empenhado em me tornar um Desenvolvedor Full Stack.
+- 📚 **Participando do Bootcamp da Brazil Generation.**
 
-<br />
+- 🎯 **Atualmente estudando Spring e Angular**
+
+<br>
+<br>
+
+###### Me encontre por essas redes.
+
+<p align="center">
+ 
+&nbsp; <a align="center" href="https://www.linkedin.com/in/juliop3p/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/8OZu945.png" width="30" /></a>
+&nbsp; <a align="center" href="mailto:julio15.zn@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/yhJTPLs.png"  width="30" /></a>
+<a align="center" href="https://portfoliojulio.netlify.app/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.imgur.com/HwsmNWI.png"  width="30" /></a>
+</p>
+
+<br>
+<br>
 
 **Minhas principais tecnologias**
 
-<img src="https://i.imgur.com/ZNWkjuX.png" />
-
-<br />
-<br />
-
-[![Linkedin Badge](https://i.imgur.com/8lktFdw.png)](https://portfoliojulio.netlify.app/)
-
-[![Twitter Badge](https://i.imgur.com/gSobqyk.png)](https://github.com/juliop3p)
-
-<img src="https://i.imgur.com/4CXwSrr.png" />
+<img src="https://i.imgur.com/yDo1ypD.png" />
