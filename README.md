@@ -9,13 +9,11 @@
 
 - 👨‍💻 **Desenvolvedor Full Stack**
 
-- 🎓 **Cursando Sistema de Informação 4° Semestre.**
+- 🎓 **Cursando Sistema de Informação 5° Semestre.**
 
-- 📚 **Participando do Bootcamp da Brazil Generation.**
+- 🚀 **Atualmente trabalhando no Itaú Unibanco SA**
 
-- 🧰 **Familiar com Node.js, ReactJS, MongoDB, Express.js**
-
-- 🎯 **Atualmente estudando Spring e Angular**
+- 🎯 **Atualmente estudando C# e Angular**
 
 <br>
 <br>
