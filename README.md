@@ -1,24 +1,21 @@
-<h1 align="center"> Olá, sou Julio Cesar 😀</h1>
+<h1 align="center"> Hi, I'am Julio Cesar 😀</h1>
 
-<h3 align="center">Um Desenvolvedor Full Stack focado em criar soluções incríveis, que agregam valor na vida das pessoas </h3>
+<h3 align="center">A Software Developer, focusing in create amazing solutions, that brings values to people.</h3>
 
 <br>
 <br>
 
 <img src="https://i.imgur.com/ZvR2QmI.png" width="400" align="right">
 
-- 👨‍💻 **Desenvolvedor Full Stack**
 
-- 🎓 **Cursando Sistema de Informação 5° Semestre.**
+- 🚀 **Software Engineer At Itaú Unibanco**
 
-- 🚀 **Atualmente trabalhando no Itaú Unibanco SA**
-
-- 🎯 **Atualmente estudando C# e Angular**
+- 🎯 **Current Studing C# e Angular**
 
 <br>
 <br>
 
-_Me encontre por essas redes._
+_Find me in these socials medias._
 
 <p align="center">
  
@@ -30,6 +27,4 @@ _Me encontre por essas redes._
 <br>
 <br>
 
-**Minhas principais tecnologias**
-
-<img src="https://i.imgur.com/yDo1ypD.png" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliop3p&layout=compact&theme=radical)
